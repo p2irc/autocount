@@ -1,6 +1,8 @@
 ## AutoCount
 
-This repository contains a Python 3.7 implementation for the AutoCount unsupervised object counting system.
+This repository contains a Python 3.7 implementation for the AutoCount unsupervised object counting system. Please cite:
+
+Ubbens, J. R., Ayalew, T. W., Shirtliffe, S. J., Josuttes, A., Pozniak, C. J. & Stavness, I. (2020). AutoCount: Unsupervised Segmentation and Counting of Plant Organs in Field Images. In the European Conference on Computer Vision (ECCV) Workshops, 2020. August 2020.
 
 The first script uses a modified implementation of the segmentation technique proposed in Asako Kanezaki. *Unsupervised Image Segmentation by Backpropagation.* IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2018.
 
